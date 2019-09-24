@@ -36,6 +36,7 @@ social_media:
   # stackoverflow: your_user_id
   twitter: geekdada
   # youtube: your_username
+  website: https://blog.dada.li
 
 topics:
   - name: Vue.js
